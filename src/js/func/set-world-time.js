@@ -1,4 +1,4 @@
-import zeroPadding from './lib/zero-padding';
+import zeroPadding from '../lib/zero-padding';
 
 export default function setWorldTime(timezone) {
   startTimezone = timezone;

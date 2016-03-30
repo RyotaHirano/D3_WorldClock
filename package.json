@@ -28,7 +28,6 @@
     "babelify": "^7.2.0",
     "browser-sync": "^2.8.2",
     "browserify": "^11.0.1",
-    "d3": "^3.5.10",
     "del": "^2.2.0",
     "eslint": "^1.8.0",
     "eslint-config-tsumiki": "0.0.0-rc1",
@@ -52,5 +51,8 @@
     "run-sequence": "^1.1.2",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.3.1"
+  },
+  "dependencies": {
+    "d3": "^3.5.16"
   }
 }

@@ -1,3 +1,6 @@
+import d3 from 'D3';
+import { translateX, translateY, scale } from '../conf/conf';
+
 export default function createProjection() {
   // 裏側の設定
   projectionBak = d3.geo.orthographic()
