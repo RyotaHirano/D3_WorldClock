@@ -13,7 +13,7 @@ import addEffects from './func/add-effects';
 
 import createDispText from './func/create-disp-text';
 
-import { stageSize, translateX, translateY, geoJsonUrl, weekDay, startCountry, fill, scale } from './conf/conf';
+import { stageSize } from './conf/conf';
 
 let projectionBak;
 let projection;
